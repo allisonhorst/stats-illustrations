@@ -7,7 +7,7 @@ Artwork is available for open use by CC-BY license. That means: Hooray! I'm so h
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-# The more important stuff: 
-Thank you to all the developers, maintainers, creators, contributors, and communicators who actually MAKE all of these amazing packages and documentation for us to use! You're superheroes! 
+# THANK YOU
+Thank you to all the R developers, maintainers, contributors, teachers and communicators who actually MAKE all of these amazing packages and documentation for us to use! You're superheroes! 
 
 
