@@ -2,7 +2,7 @@
 
 .png files for #rstats, data science and statistics illustrations from my twitter account (@allison_horst)
 
-Artwork is available for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats! Cite as "Artwork by: @allison_horst". That's it!
+Artwork is available for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats! Cite as "Artwork by @allison_horst". That's it!
 
 
 
