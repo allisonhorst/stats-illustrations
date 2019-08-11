@@ -12,7 +12,7 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_wrangling.png" width="500">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/gganimate_fireworks.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/gganimate_fireworks.PNG" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/ggplot2_exploratory.png" width="500">
 
@@ -39,8 +39,6 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidyr_spread_gather.png" width="500">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_mutate.png" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidyverse_celestial.png" width="500">
 
