@@ -107,7 +107,9 @@ For #rstats and friends!
 ## Translated artwork:
 
 - Español: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-ESrstats-artwork-ES">rstats-artwork-ES</a>
-- Brazilian Portuguese: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-PT">rstats-artwork-PT<>
+
+- Brazilian Portuguese: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-PT">rstats-artwork-PT</a>
+
 - Please submit translations as an issue!
 
 # Thank you
