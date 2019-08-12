@@ -1,4 +1,4 @@
-# rstats-twitter-artwork
+# R & other artwork!
 
 This repo contains my #rstats, data science & stats illustrations shared on my twitter account (@allison_horst)
 
