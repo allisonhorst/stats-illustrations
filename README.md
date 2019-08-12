@@ -33,7 +33,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/ggplot2_exploratory.png" width="400">
 
 ---------
-<a href="https://ggplot2.tidyverse.org/">ggplot2</a> and for creating beautiful data masterpieces!
+...and use <a href="https://ggplot2.tidyverse.org/">ggplot2</a> for creating beautiful data masterpieces!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/ggplot2_masterpiece.png" width="400">
 
