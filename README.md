@@ -5,7 +5,9 @@ This repo contains my #rstats, data science & stats illustrations shared on my t
 All of this artwork is 100% available (and encouraged!) for open use by CC-BY license. That means: Hooray! I'm so happy that you want to share this artwork - especially if it helps when teaching R/rstats/stats. You can just cite with "Artwork by @allison_horst". That's it! Click on the images below for the hi-res versions. 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-  
+
+## R-related artwork:
+
 ---------
 <a href="https://github.com/rasmusab/beepr">beepr</a> let's you pick and play a notification sound when your code/analysis is done running:
 
@@ -54,7 +56,7 @@ Like <a href="https://lubridate.tidyverse.org/">lubridate_ymd()</a> to easily pa
 ---------
 Part of tidymodels, the <a href="https://github.com/tidymodels/parsnip">parsnip</a> package creates standardized syntax across model engines:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parsnip.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parsnip.png" width="500">
 
 ---------
 You can do it!
@@ -64,27 +66,27 @@ You can do it!
 ---------
 Use <a href="https://tidymodels.github.io/recipes/">recipes</a> to streamline data preprocessing for stats & machine learning models:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/recipes.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/recipes.png" width="500">
 
 ---------
 Create reproducible examples to get (and give) help more easily with <a href="https://github.com/tidyverse/reprex">reprex</a>!
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/reprex.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/reprex.png" width="500">
 
 ---------
 Get your code, text & outputs in the same (reproducible) place with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_rockstar.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_rockstar.png" width="500">
 
 ---------
 Be an <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a> knitting wizard.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_wizards.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_wizards.png" width="500">
 
 ---------
 <a href="https://github.com/r-spatial/sf">sf</a>for a simpler way to work with spatial data, using simple features w/sticky geometry:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="500">
 
 ---------
 Soon to be pivot_wider() & pivot_longer()! <a href="https://tidyr.tidyverse.org/">tidyr::spread() & gather()</a>:
@@ -103,8 +105,22 @@ For #rstats and friends!
 
 ---------
 
+## Other stats artwork:
 
-## Translated artwork:
+---------
+Type I errors:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_1_errors.png" width="500">
+
+---------
+Type II errors:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_2_errors.png" width="500">
+
+---------
+Normality?
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/not_normal.png" width="500">
+
+
+## Translated R-artwork:
 
 - Español: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-ESrstats-artwork-ES">rstats-artwork-ES</a>
 
