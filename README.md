@@ -107,14 +107,17 @@ For #rstats and friends!
 ## Other stats artwork:
 
 Type I errors:
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_1_errors.png" width="500">
 
 ---------
 Type II errors:
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_2_errors.png" width="500">
 
 ---------
 Normality?
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/not_normal.png" width="500">
 
 
