@@ -17,7 +17,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_mutate.png" width="400">
 
 ---------
-<a href="https://dplyr.tidyverse.org/">dplyr::mutate</a>: get your data wrangling chaps on!
+<a href="https://dplyr.tidyverse.org/">dplyr</a>: get your data wrangling on.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_wrangling.png" width="400">
 
