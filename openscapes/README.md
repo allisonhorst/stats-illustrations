@@ -6,8 +6,6 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-Links coming soon...
-
 <!---
 <a href="https://github.com/rasmusab/beepr">beepr</a> let's you pick and play a notification sound when your code/analysis is done running:
 
