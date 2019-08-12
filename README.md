@@ -8,7 +8,6 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## R-related artwork:
 
----------
 <a href="https://github.com/rasmusab/beepr">beepr</a> let's you pick and play a notification sound when your code/analysis is done running:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/beepr.jpg" width="400">
@@ -107,7 +106,6 @@ For #rstats and friends!
 
 ## Other stats artwork:
 
----------
 Type I errors:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_1_errors.png" width="500">
 
