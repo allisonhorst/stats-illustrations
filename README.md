@@ -83,7 +83,7 @@ Be an <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a> knitting wizard.
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_wizards.png" width="500">
 
 ---------
-<a href="https://github.com/r-spatial/sf">sf</a>for a simpler way to work with spatial data, using simple features w/sticky geometry:
+Use the <a href="https://github.com/r-spatial/sf">sf</a> package for simpler spatial data analysis with sticky attributes:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="500">
 
