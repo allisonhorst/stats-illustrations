@@ -48,6 +48,11 @@ Use <a href="https://lubridate.tidyverse.org/">lubridate</a> to work more easily
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/lubridate.png" width="400">
 
 ---------
+The <a href="https://github.com/sfirke/janitor">janitor</a> package contains multiple user-friendly functions for cleaning messy data, including clean_names() to update all of your column names to a nice case of your choosing (snake_case! lowerCamel! UpperCamel! SCREAMING_SNAKE! ...and more) all at once: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/janitor_clean_names.png" width="500">
+
+---------
 Like <a href="https://lubridate.tidyverse.org/">lubridate_ymd()</a> to easily parse year/month/day data!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/lubridate_ymd.png" width="400">
