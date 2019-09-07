@@ -10,6 +10,10 @@ An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> sc
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds.png" width="700">
 
+And here's the same illustration as above, but with room for you to add your own organizations/communities in the green donut!
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds-general.png" width="700">
+
 ----
 
 Data science & teamwork feedback loop:
