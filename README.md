@@ -68,6 +68,11 @@ You can do it!
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png" width="400">
 
 ---------
+Use @tylermorganwall's <a href="https://github.com/tylermorganwall/rayshader">rayshader</a> package to create amazing 3D maps and graphs! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rayshader.png" width="500">
+
+---------
 Use <a href="https://tidymodels.github.io/recipes/">recipes</a> to streamline data preprocessing for stats & machine learning models:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/recipes.png" width="500">
