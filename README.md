@@ -130,6 +130,16 @@ Normality?
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/not_normal.png" width="500">
 
+---------
+Continuous & discrete data:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/continuous_discrete.png" width="500">
+
+---------
+Nominal, ordinal & binary data:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/nominal_ordinal_binary.png" width="500">
+
 
 ## Translated R-artwork:
 
