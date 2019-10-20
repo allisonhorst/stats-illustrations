@@ -150,6 +150,6 @@ Nominal, ordinal & binary data:
 - Please submit translations as an issue!
 
 # Thank you
-Thank you to all the R developers, maintainers, contributors, teachers and communicators who actually MAKE all of these amazing packages and documentation that have inspired this #rstats artwork! You're real-life superheroes. When I create an illustration with your package it's with immense gratitude for how your hard work has allowed me to do mine (using and teaching #rstats) more efficiently, more clearly, more reproducibly....just plain better. THANK YOU!
+Thank you to all the R developers, maintainers, contributors, teachers and communicators who actually MAKE all of these amazing packages and documentation that have inspired this #rstats artwork. When I create an illustration with your package it's with immense gratitude for how your hard work has allowed me to do mine (using and teaching #rstats) more efficiently, more clearly, more reproducibly....just plain better. THANK YOU!
 
 
