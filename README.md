@@ -140,6 +140,15 @@ Nominal, ordinal & binary data:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/nominal_ordinal_binary.png" width="500">
 
+---------
+
+## Openscapes artwork (@jules32 collaborations)
+
+The expanded version of the classic Grolemund & Wickham R4DS workflow, including environmental data & sci comm bookends! Envisioned by Dr. Julia Lowndes for her useR!2019 keynote. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds-general.png" width="800">
+
+----------
 
 ## Translated R-artwork:
 
