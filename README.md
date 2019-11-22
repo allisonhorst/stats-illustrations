@@ -114,6 +114,10 @@ For #rstats and friends!
 
 ---------
 
+If you bring group_by() to the party, don't forget dplyr::ungroup()
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/group_by_ungroup.png" width="400">
+
 ## Other stats artwork:
 
 #### Multiple linear regression dragons thread:
