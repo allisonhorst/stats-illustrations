@@ -116,6 +116,34 @@ For #rstats and friends!
 
 ## Other stats artwork:
 
+#### Multiple linear regression dragons thread:
+
+Meet your MLR teaching assistants: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragons.png" width="500">
+
+Interpret coefficients for categorical predictor variables: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragon_regression.png" width="500">
+
+And for continuous predictor variables: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragons_continuous.png" width="500">
+
+Or make predictions using the regression model: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragon_predict_mlr.png" width="500">
+
+Understand residuals: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragon_residual.png" width="500">
+
+And check for residuals normality:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragon_residual_distribution.png" width="500">
+
+---------
+
 Type I errors:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/type_1_errors.png" width="500">
