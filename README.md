@@ -120,6 +120,12 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 ## Other stats artwork:
 
+Release the disco data:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/summary_statistics.png" width="500">
+
+---------
+
 #### Multiple linear regression dragons thread:
 
 Meet your MLR teaching assistants: 
