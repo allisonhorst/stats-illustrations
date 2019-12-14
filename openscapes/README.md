@@ -2,7 +2,7 @@
 
 This folder contains artwork by @allison_horst that was conceived of, and presented by, Dr. Julia Lowndes (@jules32) - director of <a href="https://www.openscapes.org/">Openscapes</a> for talks including her opening <a href="https://www.youtube.com/watch?v=Z8PqwFPqn6Y&feature=youtu.be&start=2710">keynote</a> at the <a href="http://user2019.r-project.org/program_overview/">useR! 2019 conference</a>. (<a href="https://jules32.github.io/useR-2019-keynote/#1">Slides are here</a>). 
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Please credit any Openscapes artwork with: Artwork from @openscapes via @juliesquid (illustrated by @allison_horst). 
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Please credit any Openscapes artwork with: "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)."
 
 ----
 
