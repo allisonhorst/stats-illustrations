@@ -120,6 +120,12 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 ## Other stats artwork:
 
+in_case_you_forget:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/coding_cases.png" width="500">
+
+---------
+
 Release the disco data:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/summary_statistics.png" width="500">
