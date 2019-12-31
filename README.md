@@ -58,6 +58,11 @@ Like <a href="https://lubridate.tidyverse.org/">lubridate_ymd()</a> to easily pa
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/lubridate_ymd.png" width="400">
 
 ---------
+Use <a href="https://readr.tidyverse.org/reference/parse_number.html">readr::parse_number()</a> to just keep the numeric parts, & remove characters:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parse_number.png" width="400">
+
+---------
 Part of tidymodels, the <a href="https://github.com/tidymodels/parsnip">parsnip</a> package creates standardized syntax across model engines:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parsnip.png" width="500">
