@@ -118,6 +118,11 @@ For #rstats and friends!
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/welcome_to_rstats_twitter.png" width="400">
 
 ---------
+Thanks, #rstats community!
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero_rstats.png" width="400">
+
+---------
 
 If you bring group_by() to the party, don't forget dplyr::ungroup()
 
