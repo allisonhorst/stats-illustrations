@@ -130,6 +130,19 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 ## Other stats artwork:
 
+Gentle intro to t-tests thread:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_1.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_2.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_3.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_4.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_5.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_6.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_8.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/p_value_mic_hog.jpg" width="500">
+
+---------
+
 in_case_you_forget:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/coding_cases.png" width="500">
