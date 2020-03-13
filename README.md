@@ -68,6 +68,12 @@ Part of tidymodels, the <a href="https://github.com/tidymodels/parsnip">parsnip<
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parsnip.png" width="500">
 
 ---------
+
+Easily arrange and combine ggplots with <a href="https://patchwork.data-imaginist.com/">patchwork</a>!
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/patchwork_1.jpg" width="500">
+
+---------
 You can do it!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png" width="400">
@@ -128,32 +134,60 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/group_by_ungroup.png" width="400">
 
+## Make-Your-Own Sample Cartoon!
+
+I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in educational materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! 
+
+#### Here are some examples of DIY creations:
+
+Example 1:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_1.png" width="500">
+
+Example 2: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_2.png" width="500">
+
+Example 3: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_3.png" width="500">
+
+Example 4: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_4.png" width="500">
+
+#### The pieces so that you can make your own:
+
+##### Faces
+
+Choose the expression to add to your sample: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/sample_faces.png" width="500">
+
+##### Histograms
+
+Histograms with arms you can add to them.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/pink_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="500">
+
+##### Dotplots
+
+Dotplots and arms you can add to them.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/lavender_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/periwinkle_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/skyblue_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="500">
+
 ## Other stats artwork:
 
-Gentle intro to t-tests thread:
+For the love of pie charts:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_1.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_2.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_3.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_4.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_5.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_6.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_8.jpg" width="500">
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/p_value_mic_hog.jpg" width="500">
-
----------
-
-in_case_you_forget:
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/coding_cases.png" width="500">
-
----------
-
-Release the disco data:
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/summary_statistics.png" width="500">
-
----------
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="500">
 
 #### Multiple linear regression dragons thread:
 
@@ -180,6 +214,31 @@ Understand residuals:
 And check for residuals normality:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/dragon_residual_distribution.png" width="500">
+
+---------
+
+#### Gentle intro to t-tests thread:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_1.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_2.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_3.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_4.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_5.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_6.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/t_test_8.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/p_value_mic_hog.jpg" width="500">
+
+---------
+
+in_case_you_forget:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/coding_cases.png" width="500">
+
+---------
+
+Release the disco data:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/summary_statistics.png" width="500">
 
 ---------
 
