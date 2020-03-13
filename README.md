@@ -134,22 +134,16 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/group_by_ungroup.png" width="400">
 
-## Make-Your-Own Sample Cartoon!
+## Make your own sample cartoons!
 
 I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in educational materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! 
 
 #### Here are some examples of DIY creations:
 
-Example 1:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_1.png" width="500">
 
-Example 2: 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_2.png" width="500">
-
-Example 3: 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_3.png" width="500">
 
-Example 4: 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_4.png" width="500">
 
 #### The pieces so that you can make your own:
@@ -178,7 +172,7 @@ Histograms with arms you can add to them.
 
 Dotplots and arms you can add to them.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="500">
 
