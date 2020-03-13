@@ -140,11 +140,11 @@ I'm building this library of samples, faces & arms so that statistics teachers c
 
 #### Here are some examples of DIY creations:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_1.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_1.png" width="300">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_3.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_3.png" width="300">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_4.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/ex_4.png" width="300">
 
 #### The pieces so that you can make your own:
 
@@ -158,41 +158,41 @@ Choose the expression to add to your sample:
 
 Histograms with arms you can add to them.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_histogram.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/pink_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/pink_histogram.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_histogram.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="400">
 
 ##### Dotplots
 
 Dotplots and arms you can add to them.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/lavender_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/lavender_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/periwinkle_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/periwinkle_sm_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/skyblue_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/skyblue_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="400">
 
 ## Other stats artwork:
 
 For the love of pie charts:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="400">
 
 #### Multiple linear regression dragons thread:
 
