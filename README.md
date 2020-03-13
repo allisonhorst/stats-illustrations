@@ -165,9 +165,13 @@ Choose the expression to add to your sample:
 Histograms with arms you can add to them.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_histogram.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/pink_histogram.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_histogram.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="500">
 
 ##### Dotplots
@@ -175,12 +179,19 @@ Histograms with arms you can add to them.
 Dotplots and arms you can add to them.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_sm_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/lavender_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/periwinkle_sm_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/skyblue_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_dotplot.png" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="500">
 
 ## Other stats artwork:
