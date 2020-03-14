@@ -174,20 +174,7 @@ Choose the expression to add to your sample:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/purple_dotplot_sheet.svg" width="500">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_lg_dotplot.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/lavender_dotplot.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/periwinkle_sm_dotplot.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/skyblue_dotplot.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="400">
-
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/orange_dotplot_sheet.svg" width="500">
 
 ##### Extras & speech bubbles
 
