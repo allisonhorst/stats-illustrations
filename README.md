@@ -180,7 +180,7 @@ Choose the expression to add to your sample:
 
 More coming, feel free to send suggestions. 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/extras_1.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/word_thought_bubbles.svg" width="400">
 
 ## Other stats artwork:
 
