@@ -172,6 +172,8 @@ Choose the expression to add to your sample:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/green_dotplot_sheet.svg" width="500">
 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/teal_dotplot_sheet.svg" width="500">
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/purple_dotplot_sheet.svg" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/orange_dotplot_sheet.svg" width="500">
