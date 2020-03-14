@@ -170,7 +170,9 @@ Histograms with arms you can add to them.
 
 ##### Dot plot sticker sheets
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/green_dotplot_sheet.svg" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/green_dotplot_sheet.svg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/purple_dotplot_sheet.svg" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="400">
 
