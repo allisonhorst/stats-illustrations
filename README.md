@@ -188,6 +188,12 @@ Dotplots and arms you can add to them.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="400">
 
+##### Extras & speech bubbles
+
+More coming, feel free to send suggestions. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/extras_1.png" width="400">
+
 ## Other stats artwork:
 
 For the love of pie charts:
