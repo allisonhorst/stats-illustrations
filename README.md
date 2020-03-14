@@ -136,7 +136,7 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 ## Make your own sample cartoons!
 
-I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in educational materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! 
+I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in stats lectures, slides & materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! Working on making these PNGs & SVGs. 
 
 #### Here are some examples of DIY creations:
 
@@ -152,7 +152,7 @@ I'm building this library of samples, faces & arms so that statistics teachers c
 
 Choose the expression to add to your sample: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/sample_faces.png" width="500">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/faces.svg" width="500">
 
 ##### Histograms
 
@@ -168,9 +168,9 @@ Histograms with arms you can add to them.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="400">
 
-##### Dotplots
+##### Dot plot sticker sheets
 
-Dotplots and arms you can add to them.
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/green_dotplot_sheet.svg" width="400">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange__sm_dotplot.png" width="400">
 
@@ -184,7 +184,6 @@ Dotplots and arms you can add to them.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_sm_dotplot.png" width="400">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_dotplot.png" width="400">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/coral_lg_dotplot.png" width="400">
 
