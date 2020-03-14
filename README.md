@@ -154,9 +154,9 @@ Choose the expression to add to your sample:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/faces.svg" width="500">
 
-##### Histograms
+##### Histogram sticker sheets
 
-Histograms with arms you can add to them.
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/rose_histogram_sheet.svg" width="500">
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="400">
 
