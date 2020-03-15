@@ -158,15 +158,7 @@ Choose the expression to add to your sample:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/rose_histogram_sheet.svg" width="500">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/purple_histogram.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/teal_histogram.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/pink_histogram.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/green_histogram.png" width="400">
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/orange_histogram.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/make-your-own-stats-cartoons/SVG/blue_histogram_sheet.svg" width="500">
 
 ##### Dot plot sticker sheets
 
