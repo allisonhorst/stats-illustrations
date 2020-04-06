@@ -13,6 +13,11 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/beepr.jpg" width="400">
 
 ---------
+<a href="https://broom.tidyverse.org/">broom</a> makes messy model / statistical outputs into tidy tibbles:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/broom_package.png" width="400">
+
+---------
 <a href="https://dplyr.tidyverse.org/reference/mutate.html">dplyr::mutate</a> creates or transforms a variable (column) while keeping the existing ones:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_mutate.png" width="400">
@@ -23,6 +28,12 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_wrangling.png" width="400">
 
 ---------
+<a href="https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-colwise/">`dplyr::across()`</a> makes it easy to apply a function (or functions) across selected columns!
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across_fairy.png" width="400">
+
+---------
+
 <a href="https://github.com/thomasp85/gganimate">gganimate</a>: get a little action in(to your graphs)...
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/gganimate_fireworks.PNG" width="400">
@@ -112,6 +123,11 @@ Use the <a href="https://github.com/r-spatial/sf">sf</a> package for simpler spa
 Soon to be pivot_wider() & pivot_longer()! <a href="https://tidyr.tidyverse.org/">tidyr::spread() & gather()</a>:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidyr_spread_gather.png" width="400">
+
+---------
+<a href="https://stringr.tidyverse.org/reference/str_trim.html">`stringr::str_squish()`</a> removes whitespace before and after strings, and reduced repeated interior whitespace to a single space (see also: `str_trim()`):
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/str_squish.png" width="400">
 
 ---------
 Blast off into the...
