@@ -30,7 +30,12 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 ---------
 <a href="https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-colwise/">`dplyr::across()`</a> makes it easy to apply a function (or functions) across selected columns!
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across_fairy.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across_fairy.png" width="600">
+
+---------
+<a href="https://www.tidyverse.org/blog/2020/03/dplyr-1-0-0-select-rename-relocate/">`dplyr::relocate`</a>: a friendly function for moving columns around (in `dplyr` 1.0.0)! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_relocate.png" width="600">
 
 ---------
 
@@ -127,7 +132,7 @@ Soon to be pivot_wider() & pivot_longer()! <a href="https://tidyr.tidyverse.org/
 ---------
 <a href="https://stringr.tidyverse.org/reference/str_trim.html">`stringr::str_squish()`</a> removes whitespace before and after strings, and reduced repeated interior whitespace to a single space (see also: `str_trim()`):
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/str_squish.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/str_squish.png" width="600">
 
 ---------
 Blast off into the...
