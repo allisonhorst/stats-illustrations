@@ -10,12 +10,12 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <a href="https://github.com/rasmusab/beepr">beepr</a> let's you pick and play a notification sound when your code/analysis is done running:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/beepr.jpg" width="600">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/beepr.jpg" width="500">
 
 ---------
 <a href="https://broom.tidyverse.org/">broom</a> makes messy model / statistical outputs into tidy tibbles:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/broom_package.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/broom_package.png" width="600">
 
 ---------
 <a href="https://dplyr.tidyverse.org/reference/mutate.html">dplyr::mutate</a> creates or transforms a variable (column) while keeping the existing ones:
