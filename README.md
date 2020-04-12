@@ -203,6 +203,30 @@ For the love of pie charts:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="400">
 
+#### Hierarchical clustering (single linkage) thread:
+
+Creatures and their distance matrix: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_1.jpg" width="500">
+
+Find the clusters with the minimum distance between elements in them & merge: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_2.jpg" width="500">
+
+Repeat! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_3.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_4.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_5.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_6.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/cluster_single_linkage_7.jpg" width="500">
+
+Ta-da! 
+
 #### Multiple linear regression dragons thread:
 
 Meet your MLR teaching assistants: 
