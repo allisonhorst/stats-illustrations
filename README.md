@@ -303,7 +303,7 @@ The expanded version of the classic Grolemund & Wickham R4DS workflow, including
 
 ## Translated R-artwork:
 
-- Español: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-ESrstats-artwork-ES">rstats-artwork-ES</a>
+- Español: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-ES">rstats-artwork-ES</a>
 
 - Brazilian Portuguese: <a href="https://github.com/allisonhorst/stats-illustrations/tree/master/rstats-artwork-PT">rstats-artwork-PT</a>
 
