@@ -203,6 +203,32 @@ For the love of pie charts:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="400">
 
+#### k-means clustering thread: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_1.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_2.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_3.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_4.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_5.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_6.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_7.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_8.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_9.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_10.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_11.jpg" width="500">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/kmeans_12.jpg" width="500">
+
 #### Hierarchical clustering (single linkage) thread:
 
 Creatures and their distance matrix: 
