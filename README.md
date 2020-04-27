@@ -325,6 +325,14 @@ The expanded version of the classic Grolemund & Wickham R4DS workflow, including
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds-general.png" width="800">
 
+---------
+
+## Really random stuff
+
+Dog & whale training art: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dog_treats_pipe.jpg" width="600">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/splash_training.jpg" width="600">
+
 ----------
 
 ## Translated R-artwork:
