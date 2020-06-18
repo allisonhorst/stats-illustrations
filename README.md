@@ -336,6 +336,7 @@ The expanded version of the classic Grolemund & Wickham R4DS workflow, including
 ## Really random stuff
 
 Dog & whale training art: 
+
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dog_treats_pipe.jpg" width="600">
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/splash-training.jpg" width="600">
 
