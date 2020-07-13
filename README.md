@@ -30,7 +30,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 ---------
 <a href="https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-colwise/">`dplyr::across()`</a> makes it easy to apply a function (or functions) across selected columns!
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across_fairy.png" width="600">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across.jpg" width="600">
 
 ---------
 <a href="https://dplyr.tidyverse.org/reference/case_when.html">`dplyr::case_when()`</a> for friendly if_else statements: 
