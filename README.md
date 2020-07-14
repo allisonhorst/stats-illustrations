@@ -130,6 +130,11 @@ Be an <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a> knitting wizard.
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_wizards.png" width="500">
 
 ---------
+Do your data sci like it's going to need an alibi with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/reproducibility_court.png" width="600">
+
+---------
 Use the <a href="https://github.com/r-spatial/sf">sf</a> package for simpler spatial data analysis with geometries that stick to attributes:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="500">
