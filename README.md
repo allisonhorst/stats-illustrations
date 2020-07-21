@@ -349,6 +349,13 @@ Dog & whale training art:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dog_treats_pipe.jpg" width="600">
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/splash-training.jpg" width="600">
 
+Make a data shark:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/data_shark.png" width="600">
+
+Data to make the shark is <a href="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/shark_raw.csv">HERE</a>. Created with <a href="https://drawdata.xyz/">drawdata.xyz</a>. 
+
+
 ----------
 
 ## Translated R-artwork:
