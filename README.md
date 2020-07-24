@@ -176,43 +176,43 @@ The following illustrations are in Hadley's ACM talk, which you can watch [HERE]
 
 #### Bakers
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_1.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_1.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_2.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_2.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_3.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_3.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_4.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_4.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_5.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_5.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_6.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_6.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map_frosting.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map_frosting.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map2_cupcakes.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map2_cupcakes.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_7.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_7.png" width="600">
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_8.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_8.png" width="600">
 
 #### Others from this set
 
 For looped: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/forloops.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/forloops.png" width="600">
 
 Wrangler: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/data_cowboy.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/data_cowboy.png" width="600">
 
 purrr feels like: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/purrr_cat.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/purrr_cat.png" width="600">
 
 Presenting results: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/presenting_monster.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/presenting_monster.png" width="600">
 
 ## Make your own sample cartoons!
 
