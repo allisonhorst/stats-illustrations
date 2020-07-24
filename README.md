@@ -170,6 +170,50 @@ If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/group_by_ungroup.png" width="400">
 
+## purrr bakers from Hadley Wickham's 2019 talk "The Joy of Functional Programming (for Data Science)"
+
+The following illustrations are in Hadley's ACM talk, which you can watch [HERE](https://learning.acm.org/techtalks/functionalprogramming). Please cite the following artwork with "Illustrations from Hadley Wickham's talk "The Joy of Functional Programming (for Data Science)." 
+
+#### Bakers
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_1.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_2.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_3.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_4.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_5.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_6.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map_frosting.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/map2_cupcakes.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_7.png" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/bakers_8.png" width="400">
+
+#### Others from this set
+
+For looped: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/forloops.png" width="400">
+
+Wrangler: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/data_cowboy.png" width="400">
+
+purrr feels like: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/purrr_cat.png" width="400">
+
+Presenting results: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/presenting_monster.png" width="400">
+
 ## Make your own sample cartoons!
 
 I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in stats lectures, slides & materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! Working on making these PNGs & SVGs. 
