@@ -214,6 +214,11 @@ Presenting results:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/presenting_monster.png" width="600">
 
+## R gifs (made for ESM 206 Slack channel, Fall 2020)
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/stormyr.gif" width="400">
+
+
 ## Make your own sample cartoons!
 
 I'm building this library of samples, faces & arms so that statistics teachers can create their own fun, charismatic samples to include in stats lectures, slides & materials. The files below contain different graphs (dotplots, histograms, more to come) with matching arms doing different things, along with a file of faces you can add on top to give them some personality. I recommend playing with transparency, brightness, cropping & size in whatever program you use to piece these together! Working on making these PNGs & SVGs. 
