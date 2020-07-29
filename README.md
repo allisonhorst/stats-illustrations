@@ -218,6 +218,21 @@ Presenting results:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/stormyr.gif" width="400">
 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/heartyr.gif" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/breakr.gif" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/exploder.gif" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rainbowr.gif" width="400">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero.gif" width="400">
+
+
+
+
+
+
 
 ## Make your own sample cartoons!
 
