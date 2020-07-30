@@ -278,6 +278,17 @@ More coming, feel free to send suggestions.
 
 ## Other stats artwork:
 
+#### Whale sharks for PCA teaching warm-up
+
+I start with "pretend you are this whale shark..."
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/whaleshark.png" width="600">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/krill.png" width="600">
+
+
+#### Pie charts 
+
 For the love of pie charts:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/pie_charts.jpg" width="400">
