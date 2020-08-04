@@ -12,15 +12,27 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/beepr.jpg" width="500">
 
+beepr blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/beepr_blank.png" width="200">
+
+
 ---------
 <a href="https://broom.tidyverse.org/">broom</a> makes messy model / statistical outputs into tidy tibbles:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/broom_package.png" width="600">
 
+broom blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/broom_blank.png" width="200">
+
+
 ---------
 <a href="https://dplyr.tidyverse.org/reference/mutate.html">dplyr::mutate</a> creates or transforms a variable (column) while keeping the existing ones:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_mutate.png" width="400">
+
+mutate blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/dplyr_mutate_blank.png" width="200">
+
 
 ---------
 <a href="https://dplyr.tidyverse.org/">dplyr</a>: get your data wrangling on.
@@ -32,6 +44,10 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_across.png" width="600">
 
+across blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/across_blank.png" width="200">
+
+
 ---------
 <a href="https://dplyr.tidyverse.org/reference/case_when.html">`dplyr::case_when()`</a> for friendly if_else statements: 
 
@@ -42,10 +58,18 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_filter.jpg" width="600">
 
+filter blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/filter_blank.png" width="200">
+
+
 ---------
 <a href="https://www.tidyverse.org/blog/2020/03/dplyr-1-0-0-select-rename-relocate/">`dplyr::relocate`</a>: a friendly function for moving columns around (in `dplyr` 1.0.0)! 
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/dplyr_relocate.png" width="600">
+
+relocate blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/relocate_blank.png" width="200">
+
 
 ---------
 
@@ -53,20 +77,36 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/gganimate_fireworks.PNG" width="400">
 
+gganimate blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/gganimate_blank.png" width="200">
+
+
 ---------
 <a href="https://ggplot2.tidyverse.org/">ggplot2</a> for visual data exploration:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/ggplot2_exploratory.png" width="400">
+
+ggplot2 exploratory blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/ggplot2_exploratory_blank.png" width="200">
+
 
 ---------
 ...and use <a href="https://ggplot2.tidyverse.org/">ggplot2</a> for creating beautiful data masterpieces!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/ggplot2_masterpiece.png" width="400">
 
+ggplot2 masterpiece blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/ggplot2_blank.png" width="200">
+
+
 ---------
 <a href="https://www.rdocumentation.org/packages/here/versions/0.1">here</a> for more peaceful (file) paths:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/here.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/here.png" width="400
+
+here blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/here.png" width="200">
+
 
 ---------
 The <a href="https://github.com/sfirke/janitor">janitor</a> package contains multiple user-friendly functions for cleaning messy data, including clean_names() to update all of your column names to a nice case of your choosing (snake_case! lowerCamel! UpperCamel! SCREAMING_SNAKE! ...and more) all at once: 
@@ -78,20 +118,36 @@ Use <a href="https://lubridate.tidyverse.org/">lubridate</a> to work more easily
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/lubridate.png" width="400">
 
+lubridate time control blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/lubridate_timecontrol_blank.png" width="200">
+
+
 ---------
 Like <a href="https://lubridate.tidyverse.org/">lubridate_ymd()</a> to easily parse year/month/day data!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/lubridate_ymd.png" width="400">
+
+lubridate ymd blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/lubridate_ymd_blank.png" width="200">
+
 
 ---------
 Use <a href="https://readr.tidyverse.org/reference/parse_number.html">readr::parse_number()</a> to just keep the numeric parts, & remove characters:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parse_number.png" width="400">
 
+parse_number blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/parse_number_blank.png" width="200">
+
+
 ---------
 Part of tidymodels, the <a href="https://github.com/tidymodels/parsnip">parsnip</a> package creates standardized syntax across model engines:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/parsnip.png" width="500">
+
+parsnip blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/parsnip_blank.png" width="200">
+
 
 ---------
 
@@ -99,10 +155,18 @@ Easily arrange and combine ggplots with <a href="https://patchwork.data-imaginis
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/patchwork_1.jpg" width="500">
 
+patchwork blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/patchwork_blank.png" width="200">
+
+
 ---------
 You can do it!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png" width="400">
+
+R first-then blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/r_first_then_blank.png" width="200">
+
 
 ---------
 Use @tylermorganwall's <a href="https://github.com/tylermorganwall/rayshader">rayshader</a> package to create amazing 3D maps and graphs! 
@@ -119,25 +183,45 @@ Create reproducible examples to get (and give) help more easily with <a href="ht
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/reprex.png" width="500">
 
+reprex blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/reprex_blank.png" width="200">
+
+
 ---------
 Get your code, text & outputs in the same (reproducible) place with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_rockstar.png" width="500">
+
+rmarkdown rockstars blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/rmarkdown_band_blank.png" width="200">
+
 
 ---------
 Be an <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a> knitting wizard.
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rmarkdown_wizards.png" width="500">
 
+rmarkdown wizards blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/rmarkdown_wizards_blank.png" width="200">
+
+
 ---------
 Do your data sci like it's going to need an alibi with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/reproducibility_court.png" width="600">
 
+reproducibility court blank: 
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/reproducibility_court_blank.png" width="200">
+
+
 ---------
 Use the <a href="https://github.com/r-spatial/sf">sf</a> package for simpler spatial data analysis with geometries that stick to attributes:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/sf.png" width="500">
+
+sf blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/sf_blank.png" width="200">
+
 
 ---------
 Soon to be pivot_wider() & pivot_longer()! <a href="https://tidyr.tidyverse.org/">tidyr::spread() & gather()</a>:
@@ -149,6 +233,10 @@ Soon to be pivot_wider() & pivot_longer()! <a href="https://tidyr.tidyverse.org/
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/str_squish.png" width="600">
 
+str_squish blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/str_squish_blank.png" width="200">
+
+
 ---------
 Blast off into the...
 
@@ -159,16 +247,28 @@ For #rstats and friends!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/welcome_to_rstats_twitter.png" width="400">
 
+rstats blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/rtwitter_blank.png" width="200">
+
+
 ---------
 Thanks, #rstats community!
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero_rstats.png" width="400">
+
+codehero blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/code_hero_blank.png" width="200">
+
 
 ---------
 
 If you bring group_by() to the party, don't forget dplyr::ungroup()
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/group_by_ungroup.png" width="400">
+
+ungroup blank:
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/ungroup_blank.png" width="200">
+
 
 ## purrr bakers from Hadley Wickham's 2019 talk "The Joy of Functional Programming (for Data Science)"
 
