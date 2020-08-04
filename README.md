@@ -105,7 +105,7 @@ ggplot2 masterpiece blank:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/here.png" width="400
 
 here blank:
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/here.png" width="200">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/here_blank.png" width="200">
 
 
 ---------
