@@ -102,7 +102,7 @@ ggplot2 masterpiece blank:
 ---------
 <a href="https://www.rdocumentation.org/packages/here/versions/0.1">here</a> for more peaceful (file) paths:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/here.png" width="400
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/here.png" width="400">
 
 here blank:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/here_blank.png" width="200">
