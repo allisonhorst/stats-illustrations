@@ -378,6 +378,11 @@ More coming, feel free to send suggestions.
 
 ## Other stats artwork:
 
+#### For loop monster parade
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/monster_for_loop.png" width="600">
+
+
 #### Whale sharks for PCA teaching warm-up
 
 I start with "pretend you are this whale shark..."
