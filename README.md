@@ -6,6 +6,11 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+Me, working independently: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero.jpg" width="700">
+
+
 ## R-related artwork:
 
 Monster supporters:
