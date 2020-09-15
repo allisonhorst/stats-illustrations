@@ -12,21 +12,20 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, etc.. If you are an instructor / faculty member / etc. and feel that your course materials & students benefit from the artwork, *and* you can do so without stress or burden, I would be so grateful if you'd consider donating to **<a href="https://d4bl.org/">Data 4 Black Lives</a>**. 
 
-# Art
+# Recent additions
 
-Me, working independently: 
+Faces of debugging: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero.jpg" width="700">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/debugging.jpg" width="700">
 
-
-## R-related artwork:
+-----------
 
 Monster supporters:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/monster_support.jpg" width="600">
 
 
----------
+## R-related artwork:
 
 <a href="https://github.com/rasmusab/beepr">beepr</a> let's you pick and play a notification sound when your code/analysis is done running:
 
@@ -274,7 +273,7 @@ rstats blank:
 ---------
 Thanks, #rstats community!
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero_rstats.png" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/code_hero.jpg" width="700">
 
 codehero blank:
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-blanks/code_hero_blank.png" width="200">
