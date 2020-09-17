@@ -14,6 +14,13 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 # Recent additions
 
+usethis (seriously...):
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/usethis.png" width="700">
+
+-----------
+
+
 Faces of debugging: 
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/debugging.jpg" width="700">
