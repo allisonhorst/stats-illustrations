@@ -14,6 +14,28 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 # Recent additions
 
+Derivatives thread:
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_1.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_2.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_3.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_4.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_5.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_6.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_7.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_8.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_9.jpg" width="700">
+
+-----------
+
 usethis (seriously...):
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/usethis.png" width="700">
