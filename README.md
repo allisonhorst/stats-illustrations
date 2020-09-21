@@ -10,7 +10,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ### Please consider donating to Data 4 Black Lives
 
-This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, etc.. If you are an instructor / faculty member / etc. and feel that your course materials & students benefit from the artwork, *and* you can do so without stress or burden, I would be so grateful if you'd consider donating to **<a href="https://d4bl.org/">Data 4 Black Lives</a>**. 
+This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, and more. If you are a teacher and feel that your course benefits from the artwork, *and* you can do so without stress or burden, please consider a donation to **<a href="https://d4bl.org/">Data 4 Black Lives</a>**. 
 
 # Recent additions
 
