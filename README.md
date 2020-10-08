@@ -14,6 +14,11 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 # Recent additions
 
+R Knowledge Rollercoaster: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_rollercoaster.png" width="700">
+
+
 Derivatives thread:
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/derivative_1.jpg" width="700">
