@@ -16,7 +16,7 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 ### Tidy Data series (a collaboration for the [Openscapes blog](https://www.openscapes.org/blog/) with [Dr. Julia Lowndes](https://jules32.github.io/)!)
 
-Please cite the following Tidy Data illustrations as: "Illustrations from the [Openscapes](https://www.openscapes.org/) blog *Tidy Data for reproducibility, efficiency, and collaboration* by Julia Lowndes and Allison Horst"
+Please cite the following Tidy Data illustrations as: "Illustrations from the [Openscapes](https://www.openscapes.org/) blog [*Tidy Data for reproducibility, efficiency, and collaboration*](https://www.openscapes.org/blog/2020/10/12/tidy-data/) by Julia Lowndes and Allison Horst"
 
 1. What is tidy data? 
 
