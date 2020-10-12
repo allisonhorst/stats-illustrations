@@ -14,6 +14,40 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 # Recent additions
 
+Tidy Data series (a collaboration for this [Openscapes blog post]() with [Dr. Julia Lowndes](https://jules32.github.io/)!)
+
+Please cite the following Tidy Data illustrations as: "Illustrations from the [Openscapes](https://www.openscapes.org/) blog [*Tidy Data for reproducibility, efficiency, and collaboration*]() by Julia Lowndes and Allison Horst"
+
+1. What is tidy data? 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_1.jpg" width="700">
+
+2. Like families...
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_2.jpg" width="700">
+
+3. Comparison of work benches: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_3.jpg" width="700"> 
+
+4. Friends with similar tools: 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_4.jpg" width="700">
+
+5. Easier for automation & iteration!
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_5.jpg" width="700">
+
+6. And it makes all other tidy datasets seem more welcoming! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_6.jpg" width="700">
+
+7. So make friends with tidy data! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/tidydata_7.jpg" width="700">
+
+------------
+
 R Knowledge Rollercoaster: 
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_rollercoaster.png" width="700">
