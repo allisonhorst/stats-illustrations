@@ -6,9 +6,7 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## Black Lives Matter
-
-### Please consider donating to Data 4 Black Lives
+### Is the artwork useful for your teaching materials? Please consider donating to Data 4 Black Lives!
 
 This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, and more. If you are a teacher and feel that your course benefits from the artwork, *and* you can do so without stress or burden, please consider a donation to **<a href="https://d4bl.org/">Data 4 Black Lives</a>**. 
 
