@@ -12,6 +12,28 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 # Recent additions
 
+### Intro to ACF (autocorrelation function) in time series data: 
+
+Thank you to Rob Hyndman for feedback & suggestions on this series! 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_1.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_2.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_3.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_4.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_5.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_6.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_7.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_8.jpg" width="700">
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/acf_9.jpg" width="700">
+
 ### Workflows that shred...
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/cracked_setwd.png" width="700">
