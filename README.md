@@ -6,9 +6,17 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Is the artwork useful for your teaching materials? Please consider donating to Indigenous Women Hike (founded by Jolie Varela)
+### Is the artwork useful for your teaching materials? I would be so grateful if you would...
+
+#### Donate!  
 
 This artwork is available for free to anyone who wants to use it for your teaching, learning, presentations, and more. If you are a teacher and feel that your course benefits from the artwork, *and* you can do so without stress or burden, please consider a donation to **<a href="https://www.instagram.com/indigenouswomenhike/?hl=en">Indigenous Women Hike</a>**. There are a number of ways to donate to Indigenous Women Hike, see options (including PayPal & Venmo) here: https://linktr.ee/iwh.
+
+#### Fill out this form so I know where & how it's getting used! 
+
+I am an assistant teaching professor at the Bren School of Environmental Science and Management and it would be wonderful to include information about where and how this artwork is being used for my reviews. I would be so grateful if you could complete this very short (5 questions) Google Form!
+
+[Questionnaire: Allison Horst R/stats artwork use](https://forms.gle/4dfJpsMsNJwexKA8A)
 
 # Recent additions
 
