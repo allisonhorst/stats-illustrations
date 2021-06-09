@@ -636,7 +636,7 @@ Nominal, ordinal & binary data:
 
 ## Openscapes artwork (@jules32 collaborations)
 
-The expanded version of the classic Grolemund & Wickham R4DS workflow, including environmental data & sci comm bookends! Envisioned by Dr. Julia Lowndes for her useR!2019 keynote. 
+The expanded version of the classic Grolemund & Wickham R4DS workflow, including environmental data & sci comm bookends! Envisioned by Dr. Julia Lowndes for her useR!2019 keynote. Please cite this illustration as: "Updated from Grolemund & Wickham's classis R4DS schematic, envisioned by Dr. Julia Lowndes for her 2019 useR! keynote talk and illustrated by Allison Horst."
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds-general.png" width="800">
 
