@@ -8,7 +8,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## Alternative text (in progress)
 
-**Please include alt-text when you use or share these illustrations.** Learn a bit more about alt-text [here](https://www.deque.com/blog/great-alt-text-introduction/). I'm working on adding some alt-text right above each image - feel free to update / improve on the alt-text I've included. Also, please share suggestions to improve alt-text as issues - I **greatly appreciate your feedback and suggestions**, and am open to ideas to make these illustrations more accessible for everyone. 
+**Please include [alt-text](https://www.deque.com/blog/great-alt-text-introduction/) when you use or share these illustrations.** I'm working on adding alt-text right above each image - feel free to update / improve on the alt-text I've included. Also, please share suggestions to improve alt-text as issues - I **greatly appreciate your feedback and suggestions**, and welcome input on how I can make these illustrations accessible for everyone. 
 
 ## Is the artwork useful for your teaching materials? I would be so grateful if you would...
 
