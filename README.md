@@ -6,6 +6,10 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+## New: Alternative text (in progress)
+
+There is recommended alt-text right above each image. Please make sure to include alt-text when you use or share these images. Feel free to update / improve on the alt-text I've added here. Also, please share suggestions to improve alt-text as issues - I greatly appreciate your feedback and suggestions, and am open to ideas to make these illustrations more accessible. 
+
 ## Is the artwork useful for your teaching materials? I would be so grateful if you would...
 
 ### Donate!  
@@ -17,10 +21,6 @@ This artwork is available for free to anyone who wants to use it for your teachi
 I am an Assistant Teaching Professor at the Bren School of Environmental Science and Management and it would be wonderful to include information about where and how this artwork is being used for my reviews. I would be so grateful if you could complete this very short (5 questions) Google Form, this will really help me out!
 
 [Questionnaire: Allison Horst R/stats artwork use](https://forms.gle/4dfJpsMsNJwexKA8A)
-
-## Alternative text
-
-There is recommended alt-text right above each image. Please make sure to include alt-text when you use or share these images. Feel free to update / improve on the alt-text I've added here. Also, please share suggestions to improve alt-text as issues - I greatly appreciate your feedback and suggestions, and am open to ideas to make these illustrations more accessible. 
 
 # Recent additions
 
