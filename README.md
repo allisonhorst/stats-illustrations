@@ -6,9 +6,9 @@ All of this artwork is 100% available (and encouraged!) for open use by CC-BY li
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## New: Alternative text (in progress)
+## Alternative text (in progress)
 
-There is recommended alt-text right above each image. Please make sure to include alt-text when you use or share these images. Feel free to update / improve on the alt-text I've added here. Also, please share suggestions to improve alt-text as issues - I greatly appreciate your feedback and suggestions, and am open to ideas to make these illustrations more accessible. 
+**Please include alt-text when you use or share these illustrations.** Learn a bit more about alt-text [here](https://www.deque.com/blog/great-alt-text-introduction/). I'm working on adding some alt-text right above each image - feel free to update / improve on the alt-text I've included. Also, please share suggestions to improve alt-text as issues - I **greatly appreciate your feedback and suggestions**, and am open to ideas to make these illustrations more accessible for everyone. 
 
 ## Is the artwork useful for your teaching materials? I would be so grateful if you would...
 
