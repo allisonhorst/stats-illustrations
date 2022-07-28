@@ -67,7 +67,7 @@ This artwork is available for free to anyone who wants to use it for your teachi
 
 ### Fill out this form so I know where & how it's getting used! 
 
-I am an Assistant Teaching Professor at the Bren School of Environmental Science and Management and it would be wonderful to include information about where and how this artwork is being used for my reviews. I would be so grateful if you could complete this very short (5 questions) Google Form, this will really help me out!
+It would be wonderful to include information about where and how this artwork is being used for my reviews. I would be so grateful if you could complete this very short (5 questions) Google Form, this will really help me out!
 
 [Questionnaire: Allison Horst R/stats artwork use](https://forms.gle/4dfJpsMsNJwexKA8A)
 
