@@ -52,7 +52,7 @@ The following illustrations are from [Julia Lowndes](https://jules32.github.io/)
 
 **Alt-text:** A schematic representing rendering of Quarto documents from .qmd, to knitr or jupyter, to plain text markdown, then converted by pandoc into any number of output types including html, PDF, or Word document. 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_render_schema.png" width="700">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/qmd_render_schema.png" width="700">
 
 **Alt-text:** A schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.
 
