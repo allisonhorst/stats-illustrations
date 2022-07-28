@@ -24,6 +24,15 @@ I am an Assistant Teaching Professor at the Bren School of Environmental Science
 
 # Recent additions
 
+### Lowndes & Çetinkaya-Rundel 2022 RStudio Conference Keynote: "Hello, Quarto"
+
+The following illustrations are from [Julia Lowndes](https://jules32.github.io/) and [Mine Çetinkaya-Rundel's](https://mine-cr.com/) keynote talk ["Hello, Quarto"](https://mine.quarto.pub/hello-quarto/) at the 2022 RStudio Conference in Washington, D.C. 
+
+Please credit using: "Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustration by Allison Horst." 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/julie-mine-quarto-keynote/penguins_telescope_2.png" width="700">
+
+
 ### Intro to ACF (autocorrelation function) in time series data: 
 
 Thank you to Rob Hyndman for feedback & suggestions on this series! 
