@@ -68,7 +68,7 @@ The following illustrations are from [Julia Lowndes](https://jules32.github.io/)
 
 **Alt-text:** A coloring book illustration of two penguins, one on the other's shoulders, standing on an iceberg while looking through a telescope at the Quarto logo "moon" in the night sky.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins-coloring.png" width="700">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins-coloring.jpg" width="700">
 
 
 ### Intro to ACF (autocorrelation function) in time series data: 
