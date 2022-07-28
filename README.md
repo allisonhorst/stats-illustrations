@@ -28,9 +28,47 @@ I am an Assistant Teaching Professor at the Bren School of Environmental Science
 
 The following illustrations are from [Julia Lowndes](https://jules32.github.io/) and [Mine Çetinkaya-Rundel's](https://mine-cr.com/) keynote talk ["Hello, Quarto"](https://mine.quarto.pub/hello-quarto/) at the 2022 RStudio Conference in Washington, D.C. 
 
-Please credit using: "Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustration by Allison Horst." 
+**Please credit the images below using:** "Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst." 
+
+**Alt-text:** One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo "moon" in the night sky. 
 
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins_telescope_2.png" width="700">
+
+**Alt-text:** Two penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo "moon" in the sky, while the other penguin looks on.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins_quarto_teach.png" width="700">
+
+**Alt-text:** Two happy penguins taking a selfie together in a snowy landscape. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_share.png" width="700">
+
+**Alt-text:** Two excited penguins diving off of an iceberg into the ocean. A Quarto logo "moon" in the sky is reflected in the water that they're diving into. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/reimagine_quarto_twopenguins.png" width="700">
+
+**Alt-text:** Two penguins standing on an iceberg at dawn, viewed from behind, with their arms around each others' shoulders. A Quarto logo "moon" is near the horizon.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_thankyou.png" width="700">
+
+**Alt-text:** A schematic representing rendering of Quarto documents from .qmd, to knitr or jupyter, to plain text markdown, then converted by pandoc into any number of output types including html, PDF, or Word document. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_render_schema.png" width="700">
+
+**Alt-text:** A schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_schematic.png" width="700">
+
+**Alt-text:** Two penguins looking happily up at a Quarto logo "meteor" that is flying overhead.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins_meteor.png" width="700">
+
+**Alt-text:** A meteor where the head of the meteor is the Quarto logo.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/quarto_meteor_1.png" width="700">
+
+**Alt-text:** A coloring book illustration of two penguins, one on the other's shoulders, standing on an iceberg while looking through a telescope at the Quarto logo "moon" in the night sky.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/main/julie-mine-quarto-keynote/penguins-coloring.png" width="700">
 
 
 ### Intro to ACF (autocorrelation function) in time series data: 
