@@ -73,6 +73,84 @@ It would be wonderful to include information about where and how this artwork is
 
 # Other recent additions
 
+### GitHub Illustrated Series (a collaboration for the [Openscapes blog](https://www.openscapes.org/blog/) with [Dr. Julia Lowndes](https://jules32.github.io/)!)
+
+Please cite the following GitHub Illustrated Series as: "Illustrations from the [Openscapes](https://www.openscapes.org/) blog [*GitHub for supporting, reusing, contributing, and failing safely*](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/) by Allison Horst and Julia Lowndes"
+
+**1. Why GitHub? #1**
+
+**Alt-text:** 
+
+A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled “Me” is high-fiving another whose harness says “Future Me”. Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: “Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.” 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_friends.png" width="700">
+
+**2. Why GitHub? #2**
+
+**Alt-text:**
+
+On the left is a quote from Hadley Wickham and Jenny Bryan that says “Using a Git commit is like using anchors and other protection when climbing…if you make a mistake you can’t fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination.” On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled “Commit”. Three monsters on the ground support the climbers.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_wickham_bryan_git_quote.png" width="700">
+
+**3. GitHub helps streamline our work.** 
+
+**Alt-text:**
+
+Left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say “Initial commit”, “Data Cleaned”, “Analysis completed”. Another anchor on their harness, ready to place, is labeled “Manuscript drafted”. Right panel, against a gray sky with rain and lightning, a stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like “analysis_final_v2.xls”, “analysis_final_final.xls”, and “ignore_this.xls”. Text above the left panel says “When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…” Text above the right panel says: “...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.”
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_compare_text.png" width="700">
+
+**4. GitHub helps us support**
+
+**Alt-text:**
+
+Four little monsters on grass support another monster starting their climb up a rock face. The climber’s harness is labeled “Coder”, the belayer wears a harness labeled “Code review”, two others consulting a book and route map wear caps labeled “Documentation” and “Reuse”, and another brings a box labeled “Project management and snacks”. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_groundcrew_text.png" width="700">
+
+**5. GitHub helps us reuse**
+
+**Alt-text:**
+
+Two monsters consult a book with routes labeled “Existing routes” and “Our route” with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_reuse.jpg" width="700">
+
+**6. GitHub helps us contribute**
+
+**Alt-text:**
+
+A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word “Click!”
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_clip.png" width="700">
+
+**7. GitHub helps us fail safely**
+
+**Alt-text:**
+
+A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled “Commit”.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_fall.png" width="700">
+
+**8. Harness the power of GitHub**
+
+**Alt-text:**
+
+Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base. 
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_scoping.jpeg" width="700">
+
+**9. GitHub for the win!**
+
+**Alt-text:**
+
+Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope.
+
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/github-illustrated-series/github_harness.jpeg" width="700">
+
+
+
 ### Intro to ACF (autocorrelation function) in time series data: 
 
 Thank you to Rob Hyndman for feedback & suggestions on this series! 
