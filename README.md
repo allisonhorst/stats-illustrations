@@ -1,3 +1,6 @@
+
+# ⚠️HEADS UP: This readme is no longer maintained. Visit www.allisonhorst.com for my data science / stats / R artwork.⚠️
+
 # Just added!
 
 ### Lowndes & Çetinkaya-Rundel 2022 RStudio Conference Keynote: "Hello, Quarto"
